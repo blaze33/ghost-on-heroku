@@ -10,7 +10,7 @@
   "private": true,
   "version": "0.11.10",
   "dependencies": {
-    "casper": "blaze33/Casper#2084f89e94c069d9702f8b387ab8c4333bf50ca1",
+    "casper": "blaze33/Casper#a217732f0674fa51de06395f19ae20e2b5bdf33a",
     "ghost": "0.11.10",
     "ghost-s3-storage-adapter": "3.0.4",
     "ncp": "^2.0.0",
