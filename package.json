@@ -11,7 +11,7 @@
   "version": "0.11.11",
   "dependencies": {
     "@newrelic/native-metrics": "^2.1.1",
-    "casper": "blaze33/Casper#a217732f0674fa51de06395f19ae20e2b5bdf33a",
+    "casper": "blaze33/Casper#57944af685cf53e306b42b0f210df8ea965bb7ac",
     "ghost": "0.11.11",
     "ghost-s3-storage-adapter": "3.0.4",
     "ncp": "^2.0.0",
