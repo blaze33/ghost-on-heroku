@@ -378,9 +378,9 @@ caseless@~0.12.0:
   version "0.12.0"
   resolved "https://registry.yarnpkg.com/caseless/-/caseless-0.12.0.tgz#1b681c21ff84033c826543090689420d187151dc"
 
-casper@blaze33/Casper#a217732f0674fa51de06395f19ae20e2b5bdf33a:
+casper@blaze33/Casper#57944af685cf53e306b42b0f210df8ea965bb7ac:
   version "1.3.7"
-  resolved "https://codeload.github.com/blaze33/Casper/tar.gz/a217732f0674fa51de06395f19ae20e2b5bdf33a"
+  resolved "https://codeload.github.com/blaze33/Casper/tar.gz/57944af685cf53e306b42b0f210df8ea965bb7ac"
 
 center-align@^0.1.1:
   version "0.1.3"
