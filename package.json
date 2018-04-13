@@ -8,21 +8,17 @@
   },
   "bugs": "https://github.com/TryGhost/Ghost/issues",
   "private": true,
-  "version": "0.11.11",
+  "version": "1.7.1",
   "dependencies": {
-    "@newrelic/native-metrics": "^2.1.1",
     "casper": "blaze33/Casper#542656ac678958912ca1d3291ad0d64c5fbf8d40",
-    "ghost": "0.11.11",
-    "ghost-s3-storage-adapter": "3.0.4",
-    "ncp": "^2.0.0",
-    "newrelic": "^1.39.0",
-    "pg": "latest"
+    "ghost": "^1.8.0",
+    "ghost-storage-adapter-s3": "^2.3.0",
+    "mysql": "^2.14.1"
   },
   "engines": {
-    "node": "^4.5.0 || ^6.9.0"
+    "node": "6.11.x"
   },
   "scripts": {
-    "postinstall": "ncp node_modules/casper content/themes/casper",
     "start": "node server.js"
   },
   "devDependencies": {
