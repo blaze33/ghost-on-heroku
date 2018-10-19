@@ -10,11 +10,11 @@
   "private": true,
   "version": "1.7.1",
   "dependencies": {
-    "casper": "blaze33/Casper#542656ac678958912ca1d3291ad0d64c5fbf8d40",
-    "ghost": "^1.22.3",
-    "ghost-storage-adapter-s3": "^2.3.0",
-    "mysql": "^2.14.1",
-    "newrelic": "^4.0.0"
+    "casper": "blaze33/Casper#3caeea6acfe2aa6d0ddc04bc7ff57917713755be",
+    "ghost": "^2.2.4",
+    "ghost-storage-adapter-s3": "^2.5.2",
+    "mysql": "^2.16.0",
+    "newrelic": "^4.9.0"
   },
   "engines": {
     "node": "6.11.x"
