@@ -11,7 +11,7 @@
   "version": "1.7.2",
   "dependencies": {
     "casper": "blaze33/Casper#3caeea6acfe2aa6d0ddc04bc7ff57917713755be",
-    "ghost": "^1.25.5",
+    "ghost": "^2.3.0",
     "ghost-storage-adapter-s3": "^2.5.2",
     "mysql": "^2.16.0",
     "newrelic": "^4.9.0"
