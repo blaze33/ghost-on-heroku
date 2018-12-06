@@ -2007,10 +2007,10 @@ ghost-storage-base@0.0.3:
   dependencies:
     moment "^2.19.3"
 
-ghost@^2.6.0:
-  version "2.6.0"
-  resolved "https://registry.yarnpkg.com/ghost/-/ghost-2.6.0.tgz#36b81b054b836db28b37df6298cae1f46b64a665"
-  integrity sha512-GvwIyOAQyItwViI7W1QZWB9rhC8TBZuLrngP5w3NoCA2FB/nG8slhkrt/Jr3PRM9Ozhxdvrd9DopojztLnjX5w==
+ghost@^2.7.1:
+  version "2.7.1"
+  resolved "https://registry.yarnpkg.com/ghost/-/ghost-2.7.1.tgz#3b58b04bd21b7274a02079dcd437dd51907a8414"
+  integrity sha512-pIXHDHuC4w1Ynh7DFwmZRP9TiKS4yLZ21sV5TAFOuCB7X1Wvo0/Ju29imudT9xl6DwF4BLZ6UUvpJ+FfGeOB6Q==
   dependencies:
     "@nexes/nql" "0.1.0"
     amperize "0.3.8"
