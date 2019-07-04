@@ -10,8 +10,8 @@
   "private": true,
   "version": "1.7.2",
   "dependencies": {
-    "casper": "blaze33/Casper#eafebf8",
-    "ghost": "^2.21.0",
+    "casper": "blaze33/Casper#d8141ae",
+    "ghost": "^2.25.4",
     "ghost-storage-adapter-s3": "^2.8.0",
     "mysql": "^2.17.1",
     "newrelic": "^5.7.0"
